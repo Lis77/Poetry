@@ -1,0 +1,7 @@
+<h1> Poem Title: <%= @poem.title %></h1>
+<h1> Poem Title: <%= @poem.author %></h1>
+
+	
+  <%= simple_format(@poem.body) %>
+
+<div> Source: <%= link_to(@poem.source)%></div>

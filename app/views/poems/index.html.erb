@@ -1,0 +1,6 @@
+<% @poems.each do |poem| 
+  link_poem = poem.title.titleize + " " + poem.author.titleize %>
+
+<h2><%= link_to(link_poem, poem_path(poem)) %></h2>
+
+<% end %>
