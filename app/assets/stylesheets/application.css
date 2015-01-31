@@ -18,7 +18,7 @@ body {
   max-width: 30em;
   margin: 0 auto;
   padding: 2em 4em;
-  padding-top: 2em;
+  margin-top: 25px;
   font: normal 16px/24px helvetica;
   background-color: #C2C2D6;
 }
