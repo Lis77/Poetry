@@ -26,6 +26,8 @@ body {
 h1 {
   padding-bottom: 0.25em;
   border-bottom: 1px solid #eaeaea;
+  color:#6666FF;
+  line-height: 90%;
 }
 
 a {
