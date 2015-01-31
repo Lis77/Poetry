@@ -14,6 +14,7 @@
  *= require_self
  */
 body {
+  background-color: #D6E0CC
   max-width: 30em;
   margin: 0 auto;
   padding: 2em 4em;
@@ -26,6 +27,6 @@ h1 {
 }
 
 a {
-  color: #069;
+  color: #3D0066;
   text-decoration: none;
 }
